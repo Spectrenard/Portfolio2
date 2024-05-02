@@ -1,5 +1,5 @@
 ---
-date: "2024-01-03T12:50:54.000Z"
+date: '2024-01-03T12:50:54.000Z'
 title: Kasa
 tagline: React project
 preview: >-
@@ -8,5 +8,6 @@ preview: >-
   when an unknown printer took a galley of type and scrambled it to make a type
   specimen book.
 image: >-
-  https://images.unsplash.com/photo-1656188505561-19f1a1b6cda8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80
+  https://camo.githubusercontent.com/045b479c0dc2e5db398345cdce4841fbf4ff9027be7456f4c17b50f83bf71ba5/68747470733a2f2f757365722e6f632d7374617469632e636f6d2f75706c6f61642f323032322f30362f32342f31363536303839393736393930365f46525f3831315f50385f42616e6e65722d4b617361253230253238312532392e706e67
 ---
+
